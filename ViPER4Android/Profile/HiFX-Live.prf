@@ -1,5 +1,4 @@
-# Author: urain39
-# Date: 2018-02-18
+# Date: 2018-06-26
 
 profile_name=HiFX-Live
 
@@ -9,23 +8,22 @@ viper4android.headphonefx.channelpan=string=0
 viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
 viper4android.headphonefx.colorfulmusic.enable=boolean=false
 viper4android.headphonefx.colorfulmusic.midimage=string=200
-viper4android.headphonefx.convolver.crosschannel=string=0
-viper4android.headphonefx.convolver.enable=boolean=true
-viper4android.headphonefx.convolver.kernel=string=HiFX-Voice.irs
+viper4android.headphonefx.convolver.crosschannel=string=15
+viper4android.headphonefx.convolver.enable=boolean=false
+viper4android.headphonefx.convolver.kernel=string=HFX RazorSurround.irs
 viper4android.headphonefx.cure.crossfeed=string=0
 viper4android.headphonefx.cure.enable=boolean=false
-viper4android.headphonefx.diffsurr.delay=string=1200
-viper4android.headphonefx.diffsurr.enable=boolean=true
+viper4android.headphonefx.diffsurr.delay=string=1600
+viper4android.headphonefx.diffsurr.enable=boolean=false
 viper4android.headphonefx.dynamicsystem.bass=string=79
 viper4android.headphonefx.dynamicsystem.coeffs=string=100;5600;40;80;50;50
 viper4android.headphonefx.dynamicsystem.enable=boolean=true
 viper4android.headphonefx.enable=boolean=true
-viper4android.headphonefx.fetcompressor.enable=boolean=false
 viper4android.headphonefx.fetcompressor.kneemulti=string=41
-viper4android.headphonefx.fidelity.bass.enable=boolean=true
-viper4android.headphonefx.fidelity.bass.freq=string=22
+viper4android.headphonefx.fidelity.bass.enable=boolean=false
+viper4android.headphonefx.fidelity.bass.freq=string=25
 viper4android.headphonefx.fidelity.bass.gain=string=150
-viper4android.headphonefx.fidelity.bass.mode=string=1
+viper4android.headphonefx.fidelity.bass.mode=string=0
 viper4android.headphonefx.fidelity.clarity.enable=boolean=true
 viper4android.headphonefx.fidelity.clarity.gain=string=100
 viper4android.headphonefx.fidelity.clarity.mode=string=0
@@ -43,13 +41,10 @@ viper4android.headphonefx.reverb.dry=string=79
 viper4android.headphonefx.reverb.enable=boolean=true
 viper4android.headphonefx.reverb.roomsize=string=60
 viper4android.headphonefx.reverb.roomwidth=string=73
-viper4android.headphonefx.reverb.wet=string=17
-viper4android.headphonefx.tube.enable=boolean=false
+viper4android.headphonefx.reverb.wet=string=13
 viper4android.headphonefx.vhs.enable=boolean=false
 viper4android.headphonefx.vhs.qual=string=0
+viper4android.headphonefx.viperddc.device=string=
 viper4android.headphonefx.vse.enable=boolean=true
 viper4android.headphonefx.vse.value=string=1.0
 viper4android.settings.vse.notice=boolean=true
-viper4android.speakerfx.enable=boolean=false
-viper4android.speakerfx.limiter=string=100
-viper4android.speakerfx.spkopt.enable=boolean=false

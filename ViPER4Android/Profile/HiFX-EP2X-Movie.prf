@@ -8,9 +8,9 @@ viper4android.headphonefx.channelpan=string=0
 viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
 viper4android.headphonefx.colorfulmusic.enable=boolean=true
 viper4android.headphonefx.colorfulmusic.midimage=string=180
-viper4android.headphonefx.convolver.crosschannel=string=15
+viper4android.headphonefx.convolver.crosschannel=string=13
 viper4android.headphonefx.convolver.enable=boolean=true
-viper4android.headphonefx.convolver.kernel=string=HFX RazorSurround.irs
+viper4android.headphonefx.convolver.kernel=string=HiFX-Voice.irs
 viper4android.headphonefx.cure.crossfeed=string=0
 viper4android.headphonefx.cure.enable=boolean=false
 viper4android.headphonefx.diffsurr.delay=string=1400
@@ -28,7 +28,7 @@ viper4android.headphonefx.fidelity.clarity.enable=boolean=true
 viper4android.headphonefx.fidelity.clarity.gain=string=100
 viper4android.headphonefx.fidelity.clarity.mode=string=0
 viper4android.headphonefx.fireq.custom=string=-3.0;-3.0;-2.5;-2.5;-1.5;-1.0;-0.5;3.2;1.5;-2.0;
-viper4android.headphonefx.fireq.enable=boolean=true
+viper4android.headphonefx.fireq.enable=boolean=false
 viper4android.headphonefx.fireq=string=custom
 viper4android.headphonefx.limiter=string=100
 viper4android.headphonefx.outvol=string=20

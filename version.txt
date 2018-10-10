@@ -1,0 +1,20 @@
+PuppyFX 1.0.0 REL
+==================
+
+commit c0899222272d8738c3eb3004da317b8a89bdca46
+Author: urain39 <urain39@cyfan.cf>
+Date:   Fri Oct 5 16:38:40 2018 +0800
+
+    削减频谱扩展。
+
+commit 4fcd5954d4b3540787385f5461dd56afd86be175
+Author: urain39 <urain39@cyfan.cf>
+Date:   Fri Oct 5 04:16:05 2018 +0800
+
+    修复炸裂音等。
+
+commit d35d24614c5660223f07aa4668010a85fcf647d0
+Author: urain39 <urain39@cyfan.cf>
+Date:   Thu Aug 16 15:58:21 2018 +0800
+
+    删除q99x配置。

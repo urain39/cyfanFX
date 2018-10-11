@@ -4,7 +4,8 @@ profile_name=PuppyFX-Live
 
 viper4android.headphonefx.analogx.enable=boolean=false
 viper4android.headphonefx.analogx.mode=string=0
-viper4android.headphonefx.channelpan=string=0
+#viper4android.headphonefx.channelpan=string=0
+viper4android.headphonefx.channelpan=string=49
 viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
 viper4android.headphonefx.colorfulmusic.enable=boolean=false
 viper4android.headphonefx.colorfulmusic.midimage=string=200
@@ -41,7 +42,7 @@ viper4android.headphonefx.reverb.dry=string=79
 viper4android.headphonefx.reverb.enable=boolean=true
 viper4android.headphonefx.reverb.roomsize=string=60
 viper4android.headphonefx.reverb.roomwidth=string=73
-viper4android.headphonefx.reverb.wet=string=17
+viper4android.headphonefx.reverb.wet=string=19
 viper4android.headphonefx.vhs.enable=boolean=false
 viper4android.headphonefx.vhs.qual=string=0
 viper4android.headphonefx.viperddc.device=string=

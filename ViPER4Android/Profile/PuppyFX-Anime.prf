@@ -1,14 +1,14 @@
 # Date: 2018-10-19
 
-profile_name=PuppyFX-Movie
+profile_name=PuppyFX-Anime
 
-viper4android.headphonefx.analogx.enable=boolean=false
+viper4android.headphonefx.analogx.enable=boolean=true
 viper4android.headphonefx.analogx.mode=string=0
 viper4android.headphonefx.channelpan=string=50
 viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
 viper4android.headphonefx.colorfulmusic.enable=boolean=false
 viper4android.headphonefx.colorfulmusic.midimage=string=180
-viper4android.headphonefx.convolver.crosschannel=string=13
+viper4android.headphonefx.convolver.crosschannel=string=0
 viper4android.headphonefx.convolver.enable=boolean=true
 viper4android.headphonefx.convolver.kernel=string=HiFX-Voice.irs
 viper4android.headphonefx.cure.crossfeed=string=0
@@ -17,7 +17,7 @@ viper4android.headphonefx.diffsurr.delay=string=1800
 viper4android.headphonefx.diffsurr.enable=boolean=true
 viper4android.headphonefx.dynamicsystem.bass=string=49
 viper4android.headphonefx.dynamicsystem.coeffs=string=100;5600;40;80;50;50
-viper4android.headphonefx.dynamicsystem.enable=boolean=true
+viper4android.headphonefx.dynamicsystem.enable=boolean=false
 viper4android.headphonefx.enable=boolean=true
 viper4android.headphonefx.fetcompressor.kneemulti=string=41
 viper4android.headphonefx.fidelity.bass.enable=boolean=true
@@ -33,9 +33,9 @@ viper4android.headphonefx.fireq=string=custom
 viper4android.headphonefx.limiter=string=100
 viper4android.headphonefx.outvol=string=20
 viper4android.headphonefx.playbackgain.enable=boolean=true
-viper4android.headphonefx.playbackgain.maxscaler=string=3000
-viper4android.headphonefx.playbackgain.ratio=string=300
-viper4android.headphonefx.playbackgain.volume=string=30
+viper4android.headphonefx.playbackgain.maxscaler=string=400
+viper4android.headphonefx.playbackgain.ratio=string=100
+viper4android.headphonefx.playbackgain.volume=string=70
 viper4android.headphonefx.reverb.damp=string=75
 viper4android.headphonefx.reverb.dry=string=81
 viper4android.headphonefx.reverb.enable=boolean=true

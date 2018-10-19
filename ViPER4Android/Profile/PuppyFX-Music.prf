@@ -15,13 +15,13 @@ viper4android.headphonefx.cure.crossfeed=string=0
 viper4android.headphonefx.cure.enable=boolean=false
 viper4android.headphonefx.diffsurr.delay=string=1800
 viper4android.headphonefx.diffsurr.enable=boolean=false
-viper4android.headphonefx.dynamicsystem.bass=string=49
+viper4android.headphonefx.dynamicsystem.bass=string=37
 viper4android.headphonefx.dynamicsystem.coeffs=string=100;5600;40;80;50;50
 viper4android.headphonefx.dynamicsystem.enable=boolean=false
 viper4android.headphonefx.enable=boolean=true
 viper4android.headphonefx.fetcompressor.kneemulti=string=41
 viper4android.headphonefx.fidelity.bass.enable=boolean=true
-viper4android.headphonefx.fidelity.bass.freq=string=25
+viper4android.headphonefx.fidelity.bass.freq=string=20
 viper4android.headphonefx.fidelity.bass.gain=string=150
 viper4android.headphonefx.fidelity.bass.mode=string=0
 viper4android.headphonefx.fidelity.clarity.enable=boolean=true

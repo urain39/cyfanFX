@@ -34,7 +34,7 @@ viper4android.headphonefx.limiter=string=100
 viper4android.headphonefx.outvol=string=20
 viper4android.headphonefx.playbackgain.enable=boolean=true
 viper4android.headphonefx.playbackgain.maxscaler=string=400
-viper4android.headphonefx.playbackgain.ratio=string=300
+viper4android.headphonefx.playbackgain.ratio=string=50
 viper4android.headphonefx.playbackgain.volume=string=70
 viper4android.headphonefx.reverb.damp=string=75
 viper4android.headphonefx.reverb.dry=string=81

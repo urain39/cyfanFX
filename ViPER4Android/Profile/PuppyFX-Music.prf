@@ -2,7 +2,7 @@
 
 profile_name=PuppyFX-Music
 
-viper4android.headphonefx.analogx.enable=boolean=true
+viper4android.headphonefx.analogx.enable=boolean=false
 viper4android.headphonefx.analogx.mode=string=0
 viper4android.headphonefx.channelpan=string=0
 viper4android.headphonefx.colorfulmusic.coeffs=string=180;650

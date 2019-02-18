@@ -1,20 +1,19 @@
 PuppyFX 1.0.0 REL
 ==================
-
-commit c0899222272d8738c3eb3004da317b8a89bdca46
+commit e012964ab4fa38e341ef040949cfbc8ad90889d6
 Author: urain39 <urain39@cyfan.cf>
-Date:   Fri Oct 5 16:38:40 2018 +0800
+Date:   Mon Jan 28 03:06:43 2019 +0800
 
-    削减频谱扩展。
+    微调默认音效。
 
-commit 4fcd5954d4b3540787385f5461dd56afd86be175
+commit 2bd09acd9e8e875bcf739128e87285de7b08cb17
 Author: urain39 <urain39@cyfan.cf>
-Date:   Fri Oct 5 04:16:05 2018 +0800
+Date:   Mon Jan 28 02:37:17 2019 +0800
 
-    修复炸裂音等。
+    微调影院音效。
 
-commit d35d24614c5660223f07aa4668010a85fcf647d0
+commit 87fb8c9cf2420025dba255f8162e783af54670cd
 Author: urain39 <urain39@cyfan.cf>
-Date:   Thu Aug 16 15:58:21 2018 +0800
+Date:   Thu Dec 27 08:54:19 2018 +0800
 
-    删除q99x配置。
+    微调混响比例。

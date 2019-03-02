@@ -1,4 +1,4 @@
-# Date: 2018-12-23
+# Date: 2019-03-03
 
 profile_name=PuppyFX-Music
 
@@ -21,8 +21,8 @@ viper4android.headphonefx.dynamicsystem.enable=boolean=false
 viper4android.headphonefx.enable=boolean=true
 viper4android.headphonefx.fetcompressor.kneemulti=string=41
 viper4android.headphonefx.fidelity.bass.enable=boolean=true
-viper4android.headphonefx.fidelity.bass.freq=string=27
-viper4android.headphonefx.fidelity.bass.gain=string=100
+viper4android.headphonefx.fidelity.bass.freq=string=39
+viper4android.headphonefx.fidelity.bass.gain=string=150
 viper4android.headphonefx.fidelity.bass.mode=string=0
 viper4android.headphonefx.fidelity.clarity.enable=boolean=true
 viper4android.headphonefx.fidelity.clarity.gain=string=100

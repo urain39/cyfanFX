@@ -25,7 +25,7 @@ viper4android.headphonefx.fidelity.bass.freq=string=27
 viper4android.headphonefx.fidelity.bass.gain=string=200
 viper4android.headphonefx.fidelity.bass.mode=string=0
 viper4android.headphonefx.fidelity.clarity.enable=boolean=true
-viper4android.headphonefx.fidelity.clarity.gain=string=150
+viper4android.headphonefx.fidelity.clarity.gain=string=100
 viper4android.headphonefx.fidelity.clarity.mode=string=0
 viper4android.headphonefx.fireq.custom=string=-3.0;-3.0;-2.5;-2.5;-1.5;-1.0;-0.5;3.2;1.5;-2.0;
 viper4android.headphonefx.fireq.enable=boolean=false

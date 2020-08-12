@@ -1,19 +1,17 @@
-PuppyFX 1.0.0 REL
-==================
-commit e012964ab4fa38e341ef040949cfbc8ad90889d6
-Author: urain39 <urain39@cyfan.cf>
-Date:   Mon Jan 28 03:06:43 2019 +0800
+commit da3c01f212d4da588c618c70c381659f88c28468
+Author: urain39 <urain39@qq.com>
+Date:   Wed Aug 12 12:38:26 2020 +0800
 
-    微调默认音效。
+    替换脉冲样本为哈曼卡顿
 
-commit 2bd09acd9e8e875bcf739128e87285de7b08cb17
-Author: urain39 <urain39@cyfan.cf>
-Date:   Mon Jan 28 02:37:17 2019 +0800
+commit b55649f9093dca69836071df24ca1b3abcb09988
+Author: urain39 <urain39@qq.com>
+Date:   Sat Aug 8 23:15:32 2020 +0800
 
-    微调影院音效。
+    新版本代号：FireflyFX
 
-commit 87fb8c9cf2420025dba255f8162e783af54670cd
-Author: urain39 <urain39@cyfan.cf>
-Date:   Thu Dec 27 08:54:19 2018 +0800
+commit 66be407d63cb302ccb9a24ed6fe9fa852a5cee54
+Author: urain39 <16981964+urain39@users.noreply.github.com>
+Date:   Tue Jul 23 14:47:22 2019 +0800
 
-    微调混响比例。
+    更新README.md

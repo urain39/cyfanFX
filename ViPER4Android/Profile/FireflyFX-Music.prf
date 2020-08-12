@@ -9,8 +9,8 @@ viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
 viper4android.headphonefx.colorfulmusic.enable=boolean=false
 viper4android.headphonefx.colorfulmusic.midimage=string=200
 viper4android.headphonefx.convolver.crosschannel=string=0
-viper4android.headphonefx.convolver.enable=boolean=false
-viper4android.headphonefx.convolver.kernel=string=HiFX-Voice.irs
+viper4android.headphonefx.convolver.enable=boolean=true
+viper4android.headphonefx.convolver.kernel=string=HiFX-Music.irs
 viper4android.headphonefx.cure.crossfeed=string=0
 viper4android.headphonefx.cure.enable=boolean=false
 viper4android.headphonefx.diffsurr.delay=string=2000

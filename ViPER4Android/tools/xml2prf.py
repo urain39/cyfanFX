@@ -17,7 +17,7 @@ def main(argv):
         root = ET.parse(argv[1]).getroot()        
         profile_name = argv[1].strip('.xml')
 
-        for child in root.getchildren():
+        for child in root:
             if 'value' in child.attrib.keys():
                 output.append('{0}={1}={2}'.format(
                         child.attrib['name'],

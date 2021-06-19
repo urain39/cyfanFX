@@ -1,4 +1,4 @@
-FireflyFX V1.0.4
+FireflyFX V1.0.x
 =================
 
 专注于ViPERFX影视音效配置调教！

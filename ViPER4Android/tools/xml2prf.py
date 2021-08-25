@@ -15,7 +15,7 @@ def main(argv):
     if os.path.exists(argv[1]):
         output = []
         root = ET.parse(argv[1]).getroot()        
-        profile_name = argv[1].strip('.xml')
+        profile_name = argv[1].replace('.xml', '')
 
         for child in root:
             if 'value' in child.attrib.keys():

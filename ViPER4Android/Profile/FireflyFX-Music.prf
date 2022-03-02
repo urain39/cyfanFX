@@ -16,7 +16,7 @@ viper4android.headphonefx.cure.crossfeed=string=0
 viper4android.headphonefx.cure.enable=boolean=false
 viper4android.headphonefx.diffsurr.delay=string=2000
 viper4android.headphonefx.diffsurr.enable=boolean=false
-viper4android.headphonefx.dynamicsystem.bass=string=39
+viper4android.headphonefx.dynamicsystem.bass=string=22
 viper4android.headphonefx.dynamicsystem.coeffs=string=300;5600;60;105;10;50
 viper4android.headphonefx.dynamicsystem.enable=boolean=false
 viper4android.headphonefx.enable=boolean=true

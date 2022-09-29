@@ -1,4 +1,4 @@
-# Date: 2021-06-14
+# Date: 2022-09-29
 
 profile_name=FireflyFX-Movie
 
@@ -10,12 +10,12 @@ viper4android.headphonefx.colorfulmusic.coeffs=string=180;650
 viper4android.headphonefx.colorfulmusic.enable=boolean=false
 viper4android.headphonefx.colorfulmusic.midimage=string=200
 viper4android.headphonefx.convolver.crosschannel=string=0
-viper4android.headphonefx.convolver.enable=boolean=false
+viper4android.headphonefx.convolver.enable=boolean=true
 viper4android.headphonefx.convolver.kernel=string=FireflyFX-Default.irs
 viper4android.headphonefx.cure.crossfeed=string=0
 viper4android.headphonefx.cure.enable=boolean=false
 viper4android.headphonefx.diffsurr.delay=string=2000
-viper4android.headphonefx.diffsurr.enable=boolean=true
+viper4android.headphonefx.diffsurr.enable=boolean=false
 viper4android.headphonefx.dynamicsystem.bass=string=22
 viper4android.headphonefx.dynamicsystem.coeffs=string=300;5600;60;105;10;50
 viper4android.headphonefx.dynamicsystem.enable=boolean=true
@@ -26,7 +26,7 @@ viper4android.headphonefx.fidelity.bass.freq=string=27
 viper4android.headphonefx.fidelity.bass.gain=string=200
 viper4android.headphonefx.fidelity.bass.mode=string=0
 viper4android.headphonefx.fidelity.clarity.enable=boolean=true
-viper4android.headphonefx.fidelity.clarity.gain=string=100
+viper4android.headphonefx.fidelity.clarity.gain=string=50
 viper4android.headphonefx.fidelity.clarity.mode=string=0
 viper4android.headphonefx.fireq.custom=string=-3.0;-3.0;-2.5;-2.5;-1.5;-1.0;-0.5;3.2;1.5;-2.0;
 viper4android.headphonefx.fireq.enable=boolean=false

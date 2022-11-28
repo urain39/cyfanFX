@@ -52,4 +52,4 @@ viper4android.headphonefx.vse.value=string=0.59
 viper4android.settings.viperddc.notice=boolean=true
 viper4android.settings.vse.notice=boolean=true
 viper4android.speakerfx.enable=boolean=true
-viper4android.speakerfx.spkopt.enable=boolean=true
+viper4android.speakerfx.spkopt.enable=boolean=false

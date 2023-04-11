@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.ddcblock.Earbud(iP4)">1.0029636371406,-1.98979334998069,0.986902419846231,1.98979334998069,-0.989866056986828,0.968754617757355,-1.71400899610883,0.817275642571147,1.71400899610883,-0.786030260328502,1.08085662330177,-1.45112013367066,0.642659997018112,1.45112013367066,-0.723516620319883,0.943730057610727,-1.0597469012387,0.670930923942887,1.0597469012387,-0.614660981553614,1.14270099358846,0.181140481850052,0.165478368758041,-0.181140481850052,-0.308179362346502,1.00272396225594,-1.99062421050041,0.987961645677106,1.99062421050041,-0.990685607933044,0.971043835686704,-1.74031524978044,0.830663088815411,1.74031524978044,-0.801706924502115,1.0751061498895,-1.50963811881433,0.668073798663245,1.50963811881433,-0.74317994855275,0.947499118577767,-1.1599886459914,0.692972556782077,1.1599886459914,-0.640471675359845,1.13398709830914,-8.26869337983887E-17,0.216437608214671,8.26869337983887E-17,-0.350424706523808</string>
+    <boolean name="viper4android.headphonefx.analogx.enable" value="false" />
+    <string name="viper4android.headphonefx.analogx.mode">0</string>
+    <string name="viper4android.headphonefx.channelpan">0</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">180;650</string>
+    <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
+    <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="false" />
+    <string name="viper4android.headphonefx.convolver.kernel">FireflyFX-Default.irs</string>
+    <string name="viper4android.headphonefx.cure.crossfeed">0</string>
+    <boolean name="viper4android.headphonefx.cure.enable" value="false" />
+    <string name="viper4android.headphonefx.diffsurr.delay">2000</string>
+    <boolean name="viper4android.headphonefx.diffsurr.enable" value="false" />
+    <string name="viper4android.headphonefx.dynamicsystem.bass">22</string>
+    <string name="viper4android.headphonefx.dynamicsystem.coeffs">300;5600;60;105;10;50</string>
+    <boolean name="viper4android.headphonefx.dynamicsystem.enable" value="false" />
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+    <string name="viper4android.headphonefx.fetcompressor.kneemulti">41</string>
+    <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.freq">27</string>
+    <string name="viper4android.headphonefx.fidelity.bass.gain">300</string>
+    <string name="viper4android.headphonefx.fidelity.bass.mode">0</string>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">0</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">0</string>
+    <string name="viper4android.headphonefx.fireq.custom">-3.0;-3.0;-2.5;-2.5;-1.5;-1.0;-0.5;3.2;1.5;-2.0;</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="false" />
+    <string name="viper4android.headphonefx.fireq">custom</string>
+    <string name="viper4android.headphonefx.limiter">100</string>
+    <string name="viper4android.headphonefx.outvol">40</string>
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">200</string>
+    <string name="viper4android.headphonefx.playbackgain.ratio">300</string>
+    <string name="viper4android.headphonefx.playbackgain.volume">70</string>
+    <string name="viper4android.headphonefx.reverb.damp">75</string>
+    <string name="viper4android.headphonefx.reverb.dry">79</string>
+    <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
+    <string name="viper4android.headphonefx.reverb.roomsize">45</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
+    <string name="viper4android.headphonefx.reverb.wet">8</string>
+    <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
+    <string name="viper4android.headphonefx.vhs.qual">0</string>
+    <string name="viper4android.headphonefx.viperddc.device">Earbud(iP4)</string>
+    <boolean name="viper4android.headphonefx.viperddc.enable" value="true" />
+    <boolean name="viper4android.headphonefx.vse.enable" value="true" />
+    <string name="viper4android.headphonefx.vse.value">0.59</string>
+    <boolean name="viper4android.settings.viperddc.notice" value="true" />
+    <boolean name="viper4android.settings.vse.notice" value="true" />
+    <boolean name="viper4android.speakerfx.enable" value="true" />
+    <boolean name="viper4android.speakerfx.spkopt.enable" value="false" />
+</map>

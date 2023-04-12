@@ -8,7 +8,7 @@
     <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
     <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
     <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
-    <boolean name="viper4android.headphonefx.convolver.enable" value="false" />
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
     <string name="viper4android.headphonefx.convolver.kernel">FireflyFX-Default.irs</string>
     <string name="viper4android.headphonefx.cure.crossfeed">0</string>
     <boolean name="viper4android.headphonefx.cure.enable" value="false" />
@@ -30,9 +30,9 @@
     <boolean name="viper4android.headphonefx.fireq.enable" value="false" />
     <string name="viper4android.headphonefx.fireq">custom</string>
     <string name="viper4android.headphonefx.limiter">100</string>
-    <string name="viper4android.headphonefx.outvol">40</string>
+    <string name="viper4android.headphonefx.outvol">20</string>
     <boolean name="viper4android.headphonefx.playbackgain.enable" value="true" />
-    <string name="viper4android.headphonefx.playbackgain.maxscaler">200</string>
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">300</string>
     <string name="viper4android.headphonefx.playbackgain.ratio">300</string>
     <string name="viper4android.headphonefx.playbackgain.volume">70</string>
     <string name="viper4android.headphonefx.reverb.damp">75</string>
@@ -40,7 +40,7 @@
     <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
     <string name="viper4android.headphonefx.reverb.roomsize">45</string>
     <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
-    <string name="viper4android.headphonefx.reverb.wet">8</string>
+    <string name="viper4android.headphonefx.reverb.wet">13</string>
     <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
     <string name="viper4android.headphonefx.vhs.qual">0</string>
     <string name="viper4android.headphonefx.viperddc.device">Earbud(iP4)</string>

@@ -41,7 +41,7 @@
     <string name="viper4android.headphonefx.reverb.roomsize">45</string>
     <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
     <string name="viper4android.headphonefx.reverb.wet">13</string>
-    <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
+    <boolean name="viper4android.headphonefx.vhs.enable" value="false" />
     <string name="viper4android.headphonefx.vhs.qual">0</string>
     <string name="viper4android.headphonefx.viperddc.device">Earbud(iP4)</string>
     <boolean name="viper4android.headphonefx.viperddc.enable" value="true" />

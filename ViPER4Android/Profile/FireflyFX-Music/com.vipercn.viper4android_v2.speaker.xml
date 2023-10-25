@@ -20,7 +20,7 @@
     <boolean name="viper4android.headphonefx.enable" value="true" />
     <string name="viper4android.headphonefx.fetcompressor.kneemulti">41</string>
     <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
-    <string name="viper4android.headphonefx.fidelity.bass.freq">27</string>
+    <string name="viper4android.headphonefx.fidelity.bass.freq">57</string>
     <string name="viper4android.headphonefx.fidelity.bass.gain">300</string>
     <string name="viper4android.headphonefx.fidelity.bass.mode">0</string>
     <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
@@ -35,12 +35,12 @@
     <string name="viper4android.headphonefx.playbackgain.maxscaler">300</string>
     <string name="viper4android.headphonefx.playbackgain.ratio">300</string>
     <string name="viper4android.headphonefx.playbackgain.volume">70</string>
-    <string name="viper4android.headphonefx.reverb.damp">75</string>
+    <string name="viper4android.headphonefx.reverb.damp">33</string>
     <string name="viper4android.headphonefx.reverb.dry">79</string>
     <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
     <string name="viper4android.headphonefx.reverb.roomsize">45</string>
     <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
-    <string name="viper4android.headphonefx.reverb.wet">13</string>
+    <string name="viper4android.headphonefx.reverb.wet">11</string>
     <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
     <string name="viper4android.headphonefx.vhs.qual">0</string>
     <string name="viper4android.headphonefx.viperddc.device">Earbud(iP4)</string>

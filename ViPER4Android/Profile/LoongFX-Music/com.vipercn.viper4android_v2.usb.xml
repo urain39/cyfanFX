@@ -8,7 +8,7 @@
     <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
     <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
     <boolean name="viper4android.headphonefx.convolver.enable" value="false" />
-    <string name="viper4android.headphonefx.convolver.kernel">FireflyFX-Default.irs</string>
+    <string name="viper4android.headphonefx.convolver.kernel">LoongFX-Default.irs</string>
     <string name="viper4android.headphonefx.cure.crossfeed">0</string>
     <boolean name="viper4android.headphonefx.cure.enable" value="false" />
     <string name="viper4android.headphonefx.diffsurr.delay">2000</string>

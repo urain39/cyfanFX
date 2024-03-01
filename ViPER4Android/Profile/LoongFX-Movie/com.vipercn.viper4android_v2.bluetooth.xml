@@ -13,7 +13,7 @@
     <boolean name="viper4android.headphonefx.cure.enable" value="false" />
     <string name="viper4android.headphonefx.diffsurr.delay">2000</string>
     <boolean name="viper4android.headphonefx.diffsurr.enable" value="false" />
-    <string name="viper4android.headphonefx.dynamicsystem.bass">22</string>
+    <string name="viper4android.headphonefx.dynamicsystem.bass">11</string>
     <string name="viper4android.headphonefx.dynamicsystem.coeffs">300;5600;60;105;10;50</string>
     <boolean name="viper4android.headphonefx.dynamicsystem.enable" value="true" />
     <boolean name="viper4android.headphonefx.enable" value="true" />

@@ -3,7 +3,7 @@
     <boolean name="viper4android.headphonefx.analogx.enable" value="false" />
     <string name="viper4android.headphonefx.analogx.mode">0</string>
     <string name="viper4android.headphonefx.channelpan">0</string>
-    <string name="viper4android.headphonefx.colorfulmusic.coeffs">180;650</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">150;425</string>
     <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
     <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
     <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
@@ -25,8 +25,8 @@
     <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
     <string name="viper4android.headphonefx.fidelity.clarity.gain">50</string>
     <string name="viper4android.headphonefx.fidelity.clarity.mode">0</string>
-    <string name="viper4android.headphonefx.fireq.custom">-3.0;-3.0;-2.5;-2.5;-1.5;-1.0;-0.5;3.2;1.5;-2.0;</string>
-    <boolean name="viper4android.headphonefx.fireq.enable" value="false" />
+    <string name="viper4android.headphonefx.fireq.custom">-1.5;-1.5;-0.5;1.5;2.5;3.0;4.5;6.0;6.0;1.5;</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
     <string name="viper4android.headphonefx.fireq">custom</string>
     <string name="viper4android.headphonefx.limiter">100</string>
     <string name="viper4android.headphonefx.outvol">20</string>
@@ -39,7 +39,7 @@
     <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
     <string name="viper4android.headphonefx.reverb.roomsize">45</string>
     <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
-    <string name="viper4android.headphonefx.reverb.wet">15</string>
+    <string name="viper4android.headphonefx.reverb.wet">11</string>
     <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
     <string name="viper4android.headphonefx.vhs.qual">0</string>
     <boolean name="viper4android.headphonefx.viperddc.enable" value="false" />

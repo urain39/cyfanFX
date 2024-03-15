@@ -39,7 +39,7 @@
     <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
     <string name="viper4android.headphonefx.reverb.roomsize">45</string>
     <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
-    <string name="viper4android.headphonefx.reverb.wet">11</string>
+    <string name="viper4android.headphonefx.reverb.wet">9</string>
     <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
     <string name="viper4android.headphonefx.vhs.qual">0</string>
     <boolean name="viper4android.headphonefx.viperddc.enable" value="false" />

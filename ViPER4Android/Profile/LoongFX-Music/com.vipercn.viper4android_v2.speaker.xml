@@ -3,7 +3,7 @@
     <boolean name="viper4android.headphonefx.analogx.enable" value="false" />
     <string name="viper4android.headphonefx.analogx.mode">0</string>
     <string name="viper4android.headphonefx.channelpan">0</string>
-    <string name="viper4android.headphonefx.colorfulmusic.coeffs">150;425</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">190;725</string>
     <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
     <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
     <string name="viper4android.headphonefx.convolver.crosschannel">22</string>
@@ -39,7 +39,7 @@
     <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
     <string name="viper4android.headphonefx.reverb.roomsize">45</string>
     <string name="viper4android.headphonefx.reverb.roomwidth">20</string>
-    <string name="viper4android.headphonefx.reverb.wet">9</string>
+    <string name="viper4android.headphonefx.reverb.wet">8</string>
     <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
     <string name="viper4android.headphonefx.vhs.qual">0</string>
     <boolean name="viper4android.headphonefx.viperddc.enable" value="false" />

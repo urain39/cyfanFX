@@ -3,7 +3,7 @@
     <boolean name="viper4android.headphonefx.analogx.enable" value="false" />
     <string name="viper4android.headphonefx.analogx.mode">0</string>
     <string name="viper4android.headphonefx.channelpan">0</string>
-    <string name="viper4android.headphonefx.colorfulmusic.coeffs">190;725</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">180;650</string>
     <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
     <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
     <string name="viper4android.headphonefx.convolver.crosschannel">22</string>
